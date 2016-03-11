@@ -41,9 +41,9 @@ PUT services/_mapping/service
                         "neighbors": true,
                         "default": "u33"
                     }
+                }
             }
         }
-    }
     }
 }
 --------------------------------------------------
